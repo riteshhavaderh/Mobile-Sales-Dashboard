@@ -5,21 +5,15 @@ This dashboard transforms raw transactional data into actionable business insigh
 
 ---
 
-## 1.  Project Title / Headline
 
- **Mobile Sales Analytics Dashboard**  
-A dynamic and interactive Power BI dashboard designed to explore mobile phone sales performance, customer behavior, and revenue trends across multiple dimensions.
-
----
-
-## 2.  Short Description / Purpose
+##  Description / Purpose
 
 The Mobile Sales Analytics Dashboard helps users analyze mobile sales data by brand, model, month, city, and payment method.  
 It enables stakeholders to monitor performance, understand customer preferences, and support data-driven business decisions.
 
 ---
 
-## 3.  Tech Stack
+##   Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -31,7 +25,7 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-## 4.  Data Source
+##   Data Source
 
 **Source:** Simulated / Practice Mobile Sales Transaction Dataset  
 
@@ -63,7 +57,7 @@ The dataset contains transaction-level mobile sales data with the following fiel
 
 ---
 
-## 5.  Features / Highlights
+##   Features / Highlights
 
 ###  Business Problem
 
@@ -78,9 +72,9 @@ Key questions such as:
 
 ---
 
-###  Goal of the Dashboard
+###  Goal 
 
-The goal of this dashboard is to:
+The goal is to:
 - Provide a centralized view of mobile sales performance
 - Enable brand-wise and model-wise comparison
 - Analyze customer satisfaction and payment behavior
@@ -132,10 +126,8 @@ The goal of this dashboard is to:
 
 ---
 
-## 6.  Screenshots / Demo
-
 ### Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard.png)
+![Mobile Sales Dashboard](https://github.com/riteshhavaderh/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 
